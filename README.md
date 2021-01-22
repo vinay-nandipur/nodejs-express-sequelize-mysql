@@ -1,2 +1,2 @@
-# nodejs-express-sequelize-mysql
+# NodeJS-expressJS-Sequelize-MySQL
 Basic api with db using NodeJS + ExpressJS + MySQL
