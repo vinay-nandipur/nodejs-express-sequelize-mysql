@@ -1,9 +1,5 @@
 //jshint esversion:6
 
-//Copyright (C) Vinay Nandipur Rudraiah
-
-//All rights reserved - Do Not Redistribute
-
 const db = require("../models");
 const Tutorial = db.tutorials;
 const Op = db.Sequelize.Op;

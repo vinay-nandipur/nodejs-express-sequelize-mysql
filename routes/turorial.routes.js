@@ -1,9 +1,5 @@
 //jshint esversion:6
 
-//Copyright (C) Vinay Nandipur Rudraiah
-
-//All rights reserved - Do Not Redistribute
-
 module.exports = app => {
   const tutorials = require("../controllers/tutorial.controller.js");
 

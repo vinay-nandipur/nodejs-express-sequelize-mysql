@@ -1,9 +1,5 @@
 //jshint esversion:6
 
-//Copyright (C) Vinay Nandipur Rudraiah
-
-//All rights reserved - Do Not Redistribute
-
 const dbConfig = require("../config/db.config.js");
 
 const Sequelize = require("sequelize");

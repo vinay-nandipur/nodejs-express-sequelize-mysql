@@ -1,9 +1,5 @@
 //jshint esversion:6
 
-//Copyright (C) Vinay Nandipur Rudraiah
-
-//All rights reserved - Do Not Redistribute
-
 const express = require("express");
 const bodyParser = require("body-parser");
 const cors = require("cors");
